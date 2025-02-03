@@ -24,7 +24,7 @@ I'm a tech enthusiast, IT graduate, and entrepreneur based in Kenya. Passionate 
 
 ### 📚 Notable Projects
 
-💡 **[Tomato Pest & Disease Detection System](https://github.com/DuncanMwangi/tomato-disease-detection)** – AI-driven platform for diagnosing tomato crop diseases using machine learning.  
+💡 **[Tomato Pest & Disease Detection System](https://github.com/dunkohm/tomato-disease-detection)** – AI-driven platform for diagnosing tomato crop diseases using machine learning.  
 💡 **[Quantic Networks Inventory System](https://github.com/DuncanMwangi/quantic-inventory)** – A PHP-based solution for managing ISP inventory, expenses, and client data.  
 💡 **[Poultry Farming Web Platform](https://github.com/DuncanMwangi/poultry-platform)** – Helping farmers diagnose poultry diseases and find solutions.  
 
