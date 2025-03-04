@@ -24,8 +24,8 @@ I'm a tech enthusiast, IT graduate, and entrepreneur based in Kenya. Passionate 
 
 ### 📚 Notable Projects
 
-💡 **[Tomato Pest & Disease Detection System](https://github.com/dunkohm/tomato-disease-detection)** – AI-driven platform for diagnosing tomato crop diseases using machine learning.  
-💡 **[Quantic Networks Inventory System](https://github.com/DuncanMwangi/quantic-inventory)** – A PHP-based solution for managing ISP inventory, expenses, and client data.  
+💡 **[Tomato Pest & Disease Detection System](https://github.com/dunkohm/tomato-leaf-disease-detection )** – AI-driven platform for diagnosing tomato crop diseases using machine learning.  
+💡 **[Quantic Networks Inventory System](https://github.com/DuncanMwangi/QTC-task-manager )** – A PHP-based solution for managing ISP inventory, expenses, and client data.  
 💡 **[Poultry Farming Web Platform](https://github.com/DuncanMwangi/poultry-platform)** – Helping farmers diagnose poultry diseases and find solutions.  
 
 ---
@@ -41,4 +41,4 @@ I'm a tech enthusiast, IT graduate, and entrepreneur based in Kenya. Passionate 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duncan-mwangi)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DuncanMwangiKE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://your-portfolio.com)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://your-portfolio.com](https://dunkohm.github.io/Duncan_portfolio/))
