@@ -2,7 +2,7 @@
 
 I'm a tech enthusiast, IT graduate, and entrepreneur based in Kenya. Passionate about **software development, networking, data analytics, and machine learning**, I enjoy building solutions that solve real-world problems. 
 
-- 🏢 Founder of **Quantic Networks & Quantic Tech Solutions**  
+- 🏢 Partner of **Quantic Networks limited**  
 - 💻 Currently working on a **Tomato Pest & Disease Detection System** using ML 
 - 🔧 Skilled in **PHP, Flask, MikroTik, Python, MySQL, SQLite, and Data Analytics**
 - ✈️ Always learning and exploring new technologies!
